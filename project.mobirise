@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "IssetteDesign-Web",
-    "currentPage": "index.html",
+    "currentPage": "web.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -41,7 +41,7 @@
     "noImageResize": ""
   },
   "pages": {
-    "index.html": {
+    "web.html": {
       "settings": {
         "main": true,
         "title": "Web",
@@ -120,6 +120,7 @@
           "_name": "gallery1",
           "_customHTML": "<section class=\"mbr-gallery mbr-slider-carousel\" group=\"Sliders & Gallery\" plugins=\"Masonry,BootstrapCarouselSwipe,Gallery,VimeoPlayer,SliderVideo\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" inline>\n        <input type=\"range\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" inline>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#21011d\">\n\n        <input type=\"gallery\" title=\"Gallery\" name=\"gallery\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': !fullWidth}\">\n        <div mbr-gallery=\"gallery\" mbr-gallery-spacing=\"1\"></div>\n    </div>\n\n</section>",
           "_cid": "quB1FZd7bu",
+          "_anchor": "gallery1-1",
           "_protectedParams": [
             "text_all",
             "gallery"
@@ -286,8 +287,7 @@
                 "active": true
               }
             ]
-          },
-          "_anchor": "gallery1-1"
+          }
         }
       ]
     }
