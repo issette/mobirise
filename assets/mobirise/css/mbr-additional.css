@@ -1,4 +1,6 @@
+@import url(https://fonts.googleapis.com/css?family=Dancing+Script:400,700);
 @import url(https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i);
+
 
 
 
@@ -19,7 +21,7 @@ body {
   line-height: 1.6;
 }
 .display-1 {
-  font-family: undefined;
+  font-family: 'Dancing Script', handwriting;
   font-size: 4.25rem;
 }
 .display-1 > .mbr-iconfont {
@@ -1336,29 +1338,29 @@ body {
   height: auto;
   min-height: 100vh;
 }
-.cid-quAUaHungI {
-  background-image: url("../../../assets/images/final-issette-peckham-1002x1157.png");
+.cid-qupdiAjzqp {
+  background-image: url("../../../assets/images/osprey.heaven-1980x1113.jpg");
 }
-.cid-quB1FZd7bu {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #21011d;
+.cid-qupllkTVhb {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #232323;
 }
-.cid-quB1FZd7bu .mbr-slider .carousel-control {
+.cid-qupllkTVhb .mbr-slider .carousel-control {
   background: #1b1b1b;
 }
-.cid-quB1FZd7bu .mbr-slider .carousel-control-prev {
+.cid-qupllkTVhb .mbr-slider .carousel-control-prev {
   left: 0;
   margin-left: 2.5rem;
 }
-.cid-quB1FZd7bu .mbr-slider .carousel-control-next {
+.cid-qupllkTVhb .mbr-slider .carousel-control-next {
   right: 0;
   margin-right: 2.5rem;
 }
-.cid-quB1FZd7bu .mbr-slider .modal-body .close {
+.cid-qupllkTVhb .mbr-slider .modal-body .close {
   background: #1b1b1b;
 }
-.cid-quB1FZd7bu .mbr-gallery-item > div::before {
+.cid-qupllkTVhb .mbr-gallery-item > div::before {
   content: '';
   position: absolute;
   left: 0;
@@ -1370,7 +1372,7 @@ body {
   -webkit-transition: 0.2s opacity ease-in-out;
   transition: 0.2s opacity ease-in-out;
 }
-.cid-quB1FZd7bu .mbr-gallery-title {
+.cid-qupllkTVhb .mbr-gallery-title {
   font-size: .9em;
   position: absolute;
   display: block;
@@ -1381,4 +1383,74 @@ body {
   background: linear-gradient(to left, rgba(85, 67, 70, 0.85), rgba(69, 80, 91, 0.85)) !important;
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
+}
+.cid-qupMPo2h1F {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #2e2e2e;
+}
+@media (max-width: 767px) {
+  .cid-qupMPo2h1F .content {
+    text-align: center;
+  }
+  .cid-qupMPo2h1F .content > div:not(:last-child) {
+    margin-bottom: 2rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-qupMPo2h1F .media-wrap {
+    margin-bottom: 1rem;
+  }
+}
+.cid-qupMPo2h1F .media-wrap .mbr-iconfont-logo {
+  font-size: 7.5rem;
+  color: #f36;
+}
+.cid-qupMPo2h1F .media-wrap img {
+  height: 6rem;
+}
+@media (max-width: 767px) {
+  .cid-qupMPo2h1F .footer-lower .copyright {
+    margin-bottom: 1rem;
+    text-align: center;
+  }
+}
+.cid-qupMPo2h1F .footer-lower hr {
+  margin: 1rem 0;
+  border-color: #fff;
+  opacity: .05;
+}
+.cid-qupMPo2h1F .footer-lower .social-list {
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  -webkit-justify-content: flex-end;
+}
+.cid-qupMPo2h1F .footer-lower .social-list .mbr-iconfont-social {
+  font-size: 1.3rem;
+  color: #fff;
+}
+.cid-qupMPo2h1F .footer-lower .social-list .soc-item {
+  margin: 0 .5rem;
+}
+.cid-qupMPo2h1F .footer-lower .social-list a {
+  margin: 0;
+  opacity: .5;
+  -webkit-transition: .2s linear;
+  transition: .2s linear;
+}
+.cid-qupMPo2h1F .footer-lower .social-list a:hover {
+  opacity: 1;
+}
+@media (max-width: 767px) {
+  .cid-qupMPo2h1F .footer-lower .social-list {
+    justify-content: center;
+    -webkit-justify-content: center;
+  }
+}
+.cid-qupMPo2h1F P {
+  color: #149dcc;
 }
