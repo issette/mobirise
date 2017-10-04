@@ -1107,6 +1107,42 @@
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-9-2-20-19-37-503112.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/g6zcJHR-WtA",
+                "image": "@PROJECT_PATH@/assets/images/img-32-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-32-2000x1500-800x600.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-9-2-20-48-11-306324.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/ADbDJ8S7ILo",
+                "image": "@PROJECT_PATH@/assets/images/img-32-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-32-2000x1500-800x600.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-9-2-20-48-11-306324.jpg",
+                "playVideo": false,
+                "videoUrl": "https://youtu.be/ADbDJ8S7ILo",
+                "image": "@PROJECT_PATH@/assets/images/flicker.1-2000x2666.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/flicker.1-2000x2666-800x1066.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
                 "active": true
               }
             ]
