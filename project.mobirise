@@ -1167,6 +1167,18 @@
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-9-6-23-46-23-626892.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/cMlS5CrDGpg",
+                "image": "@PROJECT_PATH@/assets/images/hawk.a-2000x2666.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/hawk.a-2000x2666-800x1066.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
                 "active": true
               }
             ]
