@@ -1203,6 +1203,18 @@
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-9-1-4-35-36-529326.jpg",
+                "playVideo": false,
+                "videoUrl": "https://youtu.be/i1TprnhW-Fg",
+                "image": "@PROJECT_PATH@/assets/images/crow.sees-1839x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/crow.sees-1839x3000-800x1305.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
                 "active": true
               }
             ]
