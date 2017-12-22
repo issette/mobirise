@@ -4,7 +4,7 @@
     "currentPage": "gallery.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 28,
-    "versionPublish": "4.3.0",
+    "versionPublish": "4.5.2",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -526,12 +526,16 @@
           "_anchor": "gallery3-j",
           "_protectedParams": [
             "text_all",
+            "gallery__filtersTextStyle",
+            "gallery__filtersBtnStyle",
             "gallery"
           ],
           "_global": false,
           "_once": false,
           "_params": {
             "text_all": "All",
+            "gallery__filtersTextStyle": "display-4",
+            "gallery__filtersBtnStyle": "btn-primary-outline",
             "gallery": [
               {
                 "tags": "Awesome",
@@ -1227,6 +1231,18 @@
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-11-5-14-46-14-279144.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/W4C9udrBqhc",
+                "image": "@PROJECT_PATH@/assets/images/inner-1757x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/inner-1757x3000-800x1365.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
                 "active": true
               }
             ]
@@ -1398,12 +1414,16 @@
           "_anchor": "gallery3-q",
           "_protectedParams": [
             "text_all",
+            "gallery__filtersTextStyle",
+            "gallery__filtersBtnStyle",
             "gallery"
           ],
           "_global": false,
           "_once": false,
           "_params": {
             "text_all": "All",
+            "gallery__filtersTextStyle": "display-4",
+            "gallery__filtersBtnStyle": "btn-primary-outline",
             "gallery": [
               {
                 "tags": "Awesome",
