@@ -1106,6 +1106,18 @@
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-0-2-19-7-33-313274.jpg",
+                "playVideo": false,
+                "videoUrl": "https://youtu.be/ZfS4fmFffMI",
+                "image": "@PROJECT_PATH@/assets/images/owl.3degrees-2000x2666.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/owl.3degrees-2000x2666-800x1066.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
                 "active": true
               }
             ]
