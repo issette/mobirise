@@ -1167,18 +1167,6 @@
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2018-1-5-15-32-16-649895.jpg",
-                "playVideo": false,
-                "videoUrl": "https://youtu.be/W2n1x-gfBnI",
-                "image": "@PROJECT_PATH@/assets/images/owl.knows.2-2000x1124.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/owl.knows.2-2000x1124-800x449.jpg",
-                "alt": "",
-                "customStyle1": "display-7",
-                "caption": "Type caption here",
                 "active": true
               }
             ]
