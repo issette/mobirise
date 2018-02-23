@@ -1131,6 +1131,54 @@
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-1-3-23-22-3-991300.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/sH7lH1H9rGo",
+                "image": "@PROJECT_PATH@/assets/images/swan.dreams.2-1999x1465.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/swan.dreams.2-1999x1465-800x586.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-1-3-23-22-56-148127.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/o8E-fV4VQxQ",
+                "image": "@PROJECT_PATH@/assets/images/swan.dreams.2-1999x1465.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/swan.dreams.2-1999x1465-800x586.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-1-5-15-32-16-649895.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/W2n1x-gfBnI",
+                "image": "@PROJECT_PATH@/assets/images/swan.dreams.2-1999x1465.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/swan.dreams.2-1999x1465-800x586.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-1-5-15-32-16-649895.jpg",
+                "playVideo": false,
+                "videoUrl": "https://youtu.be/W2n1x-gfBnI",
+                "image": "@PROJECT_PATH@/assets/images/owl.knows-2000x1124.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/owl.knows-2000x1124-800x449.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
                 "active": true
               }
             ]
