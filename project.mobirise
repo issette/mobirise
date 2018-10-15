@@ -1022,6 +1022,30 @@
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-9-0-23-51-41-528687.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/qEff6d0Ugx0",
+                "image": "@PROJECT_PATH@/assets/images/img-31-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-31-2000x1500-800x600.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-9-0-23-51-41-528687.jpg",
+                "playVideo": false,
+                "videoUrl": "https://youtu.be/qEff6d0Ugx0",
+                "image": "@PROJECT_PATH@/assets/images/img-1130-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-1130-2000x1500-800x600.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
                 "active": true
               }
             ]
