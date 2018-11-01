@@ -1034,18 +1034,6 @@
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2018-9-3-23-25-32-270251.jpg",
-                "playVideo": true,
-                "videoUrl": "https://youtu.be/fDOQjtqdStU",
-                "image": "@PROJECT_PATH@/assets/images/img-31-2000x1500.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-31-2000x1500-800x600.jpg",
-                "alt": "",
-                "customStyle1": "display-7",
-                "caption": "Type caption here",
                 "active": true
               }
             ]
